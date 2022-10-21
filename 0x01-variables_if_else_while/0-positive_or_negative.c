@@ -4,6 +4,7 @@
 
 /**
  * main - Check positive or negative number
+ * Description: Check if n is less or greater or equal to 0
  */
 
 int main(void)
