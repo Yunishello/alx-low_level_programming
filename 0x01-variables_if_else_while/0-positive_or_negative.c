@@ -3,8 +3,8 @@
 #include <stdio.h>
 
 /**
- * main - Check positive or negative number
- * Description: Check if n is less or greater or equal to 0
+ * main - Check positive or negative number 
+ * Return: if n > 0 => is positive; n < 0 => is negative; n = 0 => is zero
  */
 
 int main(void)
