@@ -19,7 +19,7 @@ int main(void)
 	return(0);
 }
 
-int _upper(int c) 
+int _upper(int c)
 {
 	return upper(c);
 }
