@@ -1,1 +1,1 @@
-function that prints the alphabet, in lowercase, followed by a new line.
+ this main file is a test for a postitive_or_negative() function
