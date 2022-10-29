@@ -13,7 +13,7 @@ int main(void)
 
 	for (i = 0; i <= 98; i++)
 	{
-		for (k = i + 1; k <= 98; k++)
+		for (k = i + 1; k <= 99; k++)
 		{
 			putchar((i / 10) + '0');
 			putchar((i % 10) + '0');
@@ -29,5 +29,6 @@ int main(void)
 		}
 	}
 	putchar('\n');
+
 	return (0);
 }
