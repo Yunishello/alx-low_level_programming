@@ -6,7 +6,7 @@
  *
  * Return: always 0.
  */
-int _upper(int c)
+int _isupper(int c)
 {
 	char uppercase = 'A';
 	int isupper = 0;
