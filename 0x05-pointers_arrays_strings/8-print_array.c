@@ -2,9 +2,8 @@
 #include "main.h"
 
 /**
- * main - function that  print n element of an array of integer
+ * print_array - function that  print n element of an array of integer
  * and print new line
- *@print_array: accept parametal a and n
  *@a: accept an integer
  *@n: accept an integer
  * Return: 0
